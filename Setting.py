@@ -1,6 +1,6 @@
 from tkinter import *
 import tkinter
-
+# hihi
 Open_Setting = False
 # wido.geometry("500x500")
 # wido.minsize(400, 400)
